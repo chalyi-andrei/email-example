@@ -1,0 +1,1 @@
+# its starter kit for email layout with foundation

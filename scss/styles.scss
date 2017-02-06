@@ -1,0 +1,58 @@
+@import "foundation";
+
+.no-bg {
+  background: transparent !important;
+}
+
+.tiny-text {
+  font-size: 12px;
+}
+.text-uppercase {
+  text-transform: uppercase;
+}
+.basic-link {
+  color: #444444;
+  text-decoration: underline;
+}
+
+.sub-heading {
+  text-align: center;
+  text-transform: uppercase;
+  color: rgba(74, 75, 76, 0.73);
+  margin: 0;
+}
+.main-body-p {
+  text-align: center;
+}
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+}
+h2 {
+  font-weight: bold;
+}
+.shop-btn {
+  border: solid 2px #F61067;
+}
+.decorative-line {
+  width: 100%;
+  background: $grey;
+  height: 2px;
+}
+.no-pb {
+  padding-bottom: 0 !important;
+}
+
+.item-name {
+  text-transform: uppercase;
+  color: $accent;
+}
+
+.item-price {
+  color: $grey
+}
+
+.basic-link {
+  padding: 0 10px ;
+}
